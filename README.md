@@ -1,4 +1,4 @@
-# kubernetes-for-data-ml
+# Containers and Kubernetes for Data and ML
 A Repository for doing kubernetes work for data and ML
 
 
